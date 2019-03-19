@@ -1,0 +1,39 @@
+.component-book-result{
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-right: 70px;
+    height: 200px;
+}
+
+.singleBook{
+    border-bottom: 0.5px solid grey;
+    height: 100%;
+}
+
+.singleBook a{
+    text-decoration:none;
+}
+
+.link-content{
+    font-family: cursive;
+}
+
+.link-content img{
+    float: left;
+    height: 180px;
+    width: 150px;
+}
+
+.properties{
+    width: 900px;
+    float: left;
+    padding-left: 10px;
+    height: 170px;
+    text-align: left;
+    padding-top: 32px;
+    color: #423535;
+}
+
+.properties .title{
+    font-size:20px;
+}

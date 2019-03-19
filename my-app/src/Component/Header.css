@@ -1,0 +1,22 @@
+.component-header{
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: grey;
+}
+
+.component-header .sp1{
+    border: 2px solid grey;
+    padding: 3px 2px 3px 7px;
+    border-radius: 6px;
+    font-weight: 400;
+}
+
+.component-header .sp2{
+    padding: 3px 2px 3px 7px;
+    font-weight: 400;
+    font-size: 20px;
+}

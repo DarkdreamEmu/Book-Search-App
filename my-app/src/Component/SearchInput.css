@@ -1,0 +1,15 @@
+.component-search-input{
+    text-align: center;
+    padding: 21px;
+}
+
+.inputforbooks{
+  border: 2px solid #888;
+  height: 40px;
+  width:500px;
+  padding: 0 11px;
+  font-size: 14px;
+  align-items: center;
+  overflow: hidden;
+  color: dark-grey;
+}
